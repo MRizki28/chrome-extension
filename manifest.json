@@ -1,0 +1,11 @@
+{
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "author" : "Muhammad Rizki",
+    "name": "Plus Minus Extension",
+    "description": "This is a Chrome extension simple for count number ",
+    "action": {
+        "default_popup": "js/index.html",
+        "default_title": "Plus Minus Extension"
+    }
+}
