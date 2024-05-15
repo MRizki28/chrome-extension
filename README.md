@@ -1,11 +1,7 @@
 
-## About 
-Sistem management arsip kelurahan kawatuna
-
-
 #### Installation
 
-install composer
+download node_package
 
 ```bash
 npm install
